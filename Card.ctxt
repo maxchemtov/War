@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=value\ suit\ picture
+comment0.target=Card(int,\ int,\ javax.swing.ImageIcon)
+comment1.params=
+comment1.target=int\ getValue()
+comment2.params=
+comment2.target=int\ getSuit()
+comment3.params=
+comment3.target=javax.swing.ImageIcon\ getImage()
+numComments=4
